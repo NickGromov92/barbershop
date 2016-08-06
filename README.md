@@ -1,2 +1,2 @@
-# barbershop
-Training layout "HTML Academy" for portfolio
+# barbershop by "HTML Academy"
+Training project for portfolio.
